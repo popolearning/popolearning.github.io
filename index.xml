@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>波波好學</title>
-    <link>http://localhost:1313/</link>
+    <link>https://popolearning.github.io/</link>
     <description>Recent content on 波波好學</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Wed, 17 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://popolearning.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>上完 Hahow線上課「Github 免費架站術！輕鬆打造個人品牌」成功架設個人網站！</title>
-      <link>http://localhost:1313/blog/post-2/</link>
+      <link>https://popolearning.github.io/blog/post-2/</link>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/post-2/</guid>
+      <guid>https://popolearning.github.io/blog/post-2/</guid>
       <description>如果你跟我一樣一直有個架設個人</description>
     </item>
     <item>
       <title>Search Result</title>
-      <link>http://localhost:1313/search/</link>
+      <link>https://popolearning.github.io/search/</link>
       <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
-      <guid>http://localhost:1313/search/</guid>
+      <guid>https://popolearning.github.io/search/</guid>
       <description></description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://popolearning.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://popolearning.github.io/about/</guid>
       <description>創立緣起 最初會想要創立個人網站</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
+      <link>https://popolearning.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
-      <description>Contact Me iWriter comes with a built-in contact form that you can use with Netlify or the Formspree.</description>
+      <guid>https://popolearning.github.io/contact/</guid>
+      <description>Contact Me </description>
     </item>
     <item>
       <title>Element</title>
-      <link>http://localhost:1313/element/</link>
+      <link>https://popolearning.github.io/element/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/element/</guid>
+      <guid>https://popolearning.github.io/element/</guid>
       <description>Elements A paragraph looks like this — Globally incubate standards compliant channels before scalable benefits. Quickly disseminate superior deliverables whereas web-enabled applications.</description>
     </item>
   </channel>

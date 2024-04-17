@@ -4,7 +4,7 @@
   "lang": "zh-tw",
   "display": "fullscreen",
   "orientation" : "portrait",
-  "start_url": "http://localhost:1313/?utm_source=web_app_manifest",
+  "start_url": "https://popolearning.github.io/?utm_source=web_app_manifest",
   "background_color": "#fbf9f8",
   "theme_color": "#dc6f6e",
 
