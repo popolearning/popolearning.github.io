@@ -18381,3 +18381,21 @@ body.dark .only-dark {
 
 .dark .widget button {
   color: #fdfdfd; }
+
+#back-to-top-btn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 999;
+  font-size: 24px;
+  background-color: #DC6F6E;
+  color: #fff;
+  border: none;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  cursor: pointer; }
+
+#back-to-top-btn:hover {
+  background-color: #DC6F6E; }
