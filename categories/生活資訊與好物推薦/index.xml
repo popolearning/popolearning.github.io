@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>生活資訊與好物推薦 on 波波好學</title>
+    <link>http://localhost:1313/categories/%E7%94%9F%E6%B4%BB%E8%B3%87%E8%A8%8A%E8%88%87%E5%A5%BD%E7%89%A9%E6%8E%A8%E8%96%A6/</link>
+    <description>Recent content in 生活資訊與好物推薦 on 波波好學</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Wed, 24 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/%E7%94%9F%E6%B4%BB%E8%B3%87%E8%A8%8A%E8%88%87%E5%A5%BD%E7%89%A9%E6%8E%A8%E8%96%A6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>免費看電子書的方法</title>
+      <link>http://localhost:1313/blog/post-4/</link>
+      <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/post-4/</guid>
+      <description>圖書館真的是一個很棒的地方，尤</description>
+    </item>
+  </channel>
+</rss>
